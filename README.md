@@ -3,6 +3,7 @@
 This repository consists of the architectural decision based on the following scenario.
 
 **Scenario 3**
+
 You are a mobile app development team tasked with creating a new app for a client. The app will allow users to order food from local restaurants for delivery or pickup. Users must be able to create an account and save their payment information for future orders. The app must have a user-friendly interface that is easy to navigate and allows for seamless ordering. The following requirements must be considered:
 
 1. The app needs to track the user's location to provide accurate restaurant recommendations, estimate delivery times, and display nearby options. The team should decide on an approach for location tracking, such as utilizing GPS capabilities or integrating with location-based services.
