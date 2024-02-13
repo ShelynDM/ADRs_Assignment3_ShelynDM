@@ -1,4 +1,4 @@
-# Using Hybrid App
+# ADR1: Using Hybrid App
 
 Date: February 11, 2024
 
@@ -13,7 +13,7 @@ The hybrid application satisfy the user need for accessibility and ensures wides
 
 **Decision**
 
-Considering the user need it is decided that the application will be hybrid.
+Considering the user needs it is decided that the application will be hybrid.
 
 **Consequence**
 

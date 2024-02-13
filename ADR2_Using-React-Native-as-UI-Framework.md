@@ -1,4 +1,4 @@
-# Using React Native as UI Framework
+# ADR2: Using React Native as UI Framework
 
 Date: February 11, 2024
 
@@ -8,13 +8,15 @@ Proposed
 
 **Context**
 
-The application supports multiple platform such as iOS and Android.
-The hybrid application satisfy the user need for accessibility and ensures widespread adoption.
+React native can deploy on iOS and Android.
+Using React Native can can reduce the overall project cost with a single code base.
+React Native offers device specific features and functionality that would ensure user a smooth and responsive user experience.
 
 **Decision**
 
-Considering the user need it is decided that the application will be hybrid.
+With all the benefit React Native offer it is decided that the user interface for the application will be React Native.
 
 **Consequence**
 
-Developing a hybrid application will require a use of another framework.
+Although React Native offer multiple features, it might still use or require third party libraries in order to fully engage the application's potential.
+React Native have larger files size compare to other fully native application.
