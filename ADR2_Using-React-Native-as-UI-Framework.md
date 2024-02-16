@@ -1,6 +1,6 @@
 # ADR2: Using React Native as UI Framework
 
-Date: February 11, 2024
+Date: February 16, 2024
 
 **Status**
 
